@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Sharath Kumar 👋
 
-<!--
-**Sharath76744/Sharath76744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 Computer Science Student
+- 🌱 Currently learning the MERN Stack
+- 🚀 Passionate about Web Development
+- 📚 Always learning new technologies
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- JavaScript
+- HTML
+- CSS
+
+### Technologies
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+
+## 📌 Current Goals
+- Build real-world MERN projects
+- Contribute to Open Source
+- Improve DSA skills
+- Become a Full Stack Developer
+
+## 📫 Connect with Me
+- GitHub: github.com/Sharath7674
+- Email: sharathkumar2005@gmail.com
